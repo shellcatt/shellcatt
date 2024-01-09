@@ -18,7 +18,13 @@ This is a sub-title with cyan color but can be manipulated
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)    
 
 ---
+## Animated Kitty
 
+<img src='animatedkitty.svg' width='400'/>
+
+--
+
+## Inline AF
 And using a `foreignObject` in SVG
 <div align="center">
     <img src="example.svg" width="400" height="400" alt="css-in-readme">
