@@ -6,6 +6,13 @@ Though, there are several ways you can inject a CSS file or link into your READM
 
 ## ![plot](./title.svg)
 
+This is a title that can be manipulated.
+
+## ![plot](./subTitle.svg)
+
+This is a sub-title with cyan color but can be manipulated
+---
+
 And using a `foreignObject` in SVG
 <div align="center">
     <img src="example.svg" width="400" height="400" alt="css-in-readme">
