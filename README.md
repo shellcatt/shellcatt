@@ -11,6 +11,12 @@ This is a title that can be manipulated.
 ## ![plot](./subTitle.svg)
 
 This is a sub-title with cyan color but can be manipulated
+
+---
+## Typing
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)    
+
 ---
 
 And using a `foreignObject` in SVG
