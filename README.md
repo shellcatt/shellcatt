@@ -14,7 +14,7 @@ This is a sub-title with cyan color but can be manipulated
 
 ## Visitor count
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=test&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kuramiuvestnik.visitor-badge.issue.1&left_color=green&right_color=red)
 
 ---
 ## Typing
