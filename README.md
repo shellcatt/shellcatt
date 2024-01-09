@@ -15,8 +15,22 @@ This is a sub-title with cyan color but can be manipulated
 ---
 ## Typing
 
+### As link with image
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)    
 
+
+### As inline SVG
+
+<svg width="100%" height="100%" viewBox="30 -50 600 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+ <path id="path">
+		<animate attributeName="d" from="m0,110 h0" to="m0,110 h1100" dur="6.8s" begin="0s" repeatCount="indefinite"/>
+	</path>
+	<text font-size="26" font-family="Monospace" fill='#0f0'>
+		<textPath xlink:href="#path"> - I am An Animated Typing Example && I'm All SVG.
+    </textPath>
+	</text>
+</svg>
+            
 ---
 ## Animated Kitty
 
