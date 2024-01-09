@@ -12,6 +12,10 @@ This is a title that can be manipulated.
 
 This is a sub-title with cyan color but can be manipulated
 
+## Visitor count
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
 ---
 ## Typing
 
@@ -19,8 +23,7 @@ This is a sub-title with cyan color but can be manipulated
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)    
 
 
-### As inline SVG
-
+### As inline SVG 
 
 <svg width="100%" height="100%" viewBox="30 -50 600 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 
@@ -32,7 +35,7 @@ This is a sub-title with cyan color but can be manipulated
     </textPath>
 	</text>
 </svg>
-			
+
 ---
 ## Animated Kitty
 
