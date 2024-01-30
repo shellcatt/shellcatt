@@ -31,6 +31,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
 
 #### 💻 Platform development
+
 ![Node.JS](https://img.shields.io/badge/-Node.JS-05122A?style=flat&logo=Node.js)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=ebba34)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu+Bash)&nbsp;
@@ -40,20 +41,21 @@
 </td>
 <td>
 
-
-
 #### 🛠 DevSysOps 
 
-
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Traefik](https://img.shields.io/badge/-Traefik-05122A?style=flat&logo=Traefik-Proxy)&nbsp;
-![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=google-cloud)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)&nbsp;
+![BitBucket](https://img.shields.io/badge/-BitBucket-05122A?style=flat&logo=BitBucket&logoColor=0044b3)&nbsp;
 ![Gitlab](https://img.shields.io/badge/-Gitlalb-05122A?style=flat&logo=gitlab)&nbsp;
+![Traefik](https://img.shields.io/badge/-Traefik-05122A?style=flat&logo=Traefik-Proxy)&nbsp;
 ![Apache](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=Apache&logoColor=FFC0CB)&nbsp;
 ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=Nginx)&nbsp;
+![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=google-cloud)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws&logoColor=edb602)&nbsp;
+![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=Terraform)&nbsp;
+![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=Ansible&logoColor=ed493e)&nbsp;
+![Makefile](https://img.shields.io/badge/-Makefile-05122A?style=flat&logo=GNU)&nbsp;
 
 
 #### ☂ Environment 
