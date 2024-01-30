@@ -1,27 +1,15 @@
 # Hi there 👋 I'm Kras! <sup><i> &nbsp; A Pationate Full-Stack Developer </i></sup>
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&random=true&width=600&lines=Current+project:+Tuya+Offline+Home+Assistant;Currently+learning:+Github+actions+...;Current+languages:+Javascript,+Python,+...)](https://git.io/typing-svg) 
-
-<table border="0">
-<tr>
-<td>
-
-<img src='animatedkitty.svg' width='300'/>
-<br>
-<br>
-
-
 [![wakatime](https://wakatime.com/badge/user/018cefe8-6fe4-4bcf-82f2-e0febb0b540f.svg)](https://wakatime.com/@018cefe8-6fe4-4bcf-82f2-e0febb0b540f) &nbsp;
-
+![version :30.01.2024](https://img.shields.io/badge/version-30.01.2024-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=shellcatt&color=red) &nbsp;
 [![GitHub Shellcat](https://img.shields.io/github/followers/shellcatt?label=follow&style=social)](https://github.com/shellcatt) &nbsp;
 
-</td>
+<table>
+<tr>
 <td>
 
-
-#### ⌨ Web development 
+#### 🌐 Web development 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
@@ -33,6 +21,7 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
+![Next.JS](https://img.shields.io/badge/-Next.JS-05122A?style=flat&logo=Next.JS&logoColor=3a7cba)&nbsp;
 
 #### ⛁ Storage
 
@@ -40,6 +29,16 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
+
+#### 💻 Platform development
+![Node.JS](https://img.shields.io/badge/-Node.JS-05122A?style=flat&logo=Node.js)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=ebba34)&nbsp;
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu+Bash)&nbsp;
+<!-- ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp; -->
+<!-- ![♨ :java](https://img.shields.io/badge/♨-Java-informational?style=flat&logoColor=ebba34) &nbsp; -->
+
+</td>
+<td>
 
 
 
@@ -67,18 +66,11 @@
 ![Chrome](https://img.shields.io/badge/-Chrome-05122A?style=flat&logo=google-chrome)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=Ubuntu)&nbsp;
 
+
 </td>
 </tr>
 </table>
 
-
----
-
-<div style="text-align: right">
-
-![version :30.01.2023](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
-
-</div>
 
 <!-- 
 <br>
