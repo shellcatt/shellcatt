@@ -1,12 +1,11 @@
-# Hi there 👋 I'm Krasimir! 
-
+# Hi there 👋 I'm Kras! <sup><i> &nbsp; A Pationate Full-Stack Developer </i></sup>
 
 [![wakatime](https://wakatime.com/badge/user/018cefe8-6fe4-4bcf-82f2-e0febb0b540f.svg)](https://wakatime.com/@018cefe8-6fe4-4bcf-82f2-e0febb0b540f) &nbsp;
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&random=true&width=600&lines=Current+project:+Tuya+Offline+Home+Assistant;Currently+learning:+Github+actions+...;Current+languages:+Javascript,+Python,+...)](https://git.io/typing-svg) 
 
-<table>
+<table border="0">
 <tr>
 <td>
 
@@ -24,6 +23,7 @@
 #### ⌨ Web development 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Less](https://img.shields.io/badge/-LessCSS-05122A?style=flat&logo=Less&logoColor=563D7C)
@@ -46,19 +46,22 @@
 
 
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Traefik](https://img.shields.io/badge/-Traefik-05122A?style=flat&logo=Traefik-Proxy)&nbsp;
 ![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=google-cloud)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)&nbsp;
 ![Gitlab](https://img.shields.io/badge/-Gitlalb-05122A?style=flat&logo=gitlab)&nbsp;
+![Apache](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=Apache&logoColor=FFC0CB)&nbsp;
+![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=Nginx)&nbsp;
 
 
 #### ☂ Environment 
 
-![VS Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code)&nbsp;
-![Netbeans](https://img.shields.io/badge/-Netbeans-05122A?style=flat&logo=apache-netbeans-ide)&nbsp;
-![Terminal](https://img.shields.io/badge/-Terminal-05122A?style=flat&logo=gnome-terminal)&nbsp;
-![Tmux](https://img.shields.io/badge/-Tmux-05122A?style=flat&logo=tmux)&nbsp;
+![VS Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Netbeans](https://img.shields.io/badge/-Netbeans-05122A?style=flat&logo=apache-netbeans-ide&logoColor=007ACC)&nbsp;
+![Terminal](https://img.shields.io/badge/-Terminal-05122A?style=flat&logo=gnome-terminal&logoColor=a84747)&nbsp;
+![Tmux](https://img.shields.io/badge/-Tmux-05122A?style=flat&logo=tmux&logoColor=406929)&nbsp;
 ![KDE](https://img.shields.io/badge/-KDE-05122A?style=flat&logo=kde)&nbsp;
 ![Chrome](https://img.shields.io/badge/-Chrome-05122A?style=flat&logo=google-chrome)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=Ubuntu)&nbsp;
