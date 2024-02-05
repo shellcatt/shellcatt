@@ -2,7 +2,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/018cefe8-6fe4-4bcf-82f2-e0febb0b540f.svg)](https://wakatime.com/@018cefe8-6fe4-4bcf-82f2-e0febb0b540f) &nbsp;
 ![version :30.01.2024](https://img.shields.io/badge/version-30.01.2024-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=shellcatt&color=red) &nbsp;
 [![GitHub Shellcat](https://img.shields.io/github/followers/shellcatt?label=follow&style=social)](https://github.com/shellcatt) &nbsp;
 
 <table>
