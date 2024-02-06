@@ -1,4 +1,7 @@
-# Hi there 👋 I'm Kras! <sup><i> &nbsp; A Pationate Full-Stack Developer </i></sup>
+### About
+<p>
+Over 15 years of experience in hybrid web development. Prefers CLI.  
+</p>
 
 [![wakatime](https://wakatime.com/badge/user/018cefe8-6fe4-4bcf-82f2-e0febb0b540f.svg)](https://wakatime.com/@018cefe8-6fe4-4bcf-82f2-e0febb0b540f) &nbsp;
 ![version :30.01.2024](https://img.shields.io/badge/version-30.01.2024-informational) &nbsp;
