@@ -54,15 +54,16 @@ Over 15 years of experience in hybrid web development. Prefers CLI.
 ![Apache](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=Apache&logoColor=FFC0CB)&nbsp;
 ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=Nginx)&nbsp;
 ![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=google-cloud)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws&logoColor=edb602)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonwebservices&logoColor=edb602)&nbsp;
 ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=Terraform)&nbsp;
+![Packer](https://img.shields.io/badge/-Packer-05122A?style=flat&logo=packer)&nbsp;
 ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=Ansible&logoColor=ed493e)&nbsp;
 ![Makefile](https://img.shields.io/badge/-Makefile-05122A?style=flat&logo=GNU)&nbsp;
 
 
 #### ☂ Environment 
 
-![VS Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![VS Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logoColor=007ACC&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzIgMzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZmlsbD0iIzAwMDAwMCIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1maWxsPSIiIHN0eWxlPSItLWRhcmtyZWFkZXItaW5saW5lLWZpbGw6ICMwMDAwMDA7Ij48ZyBpZD0iU1ZHUmVwb19iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCI+PC9nPjxnIGlkPSJTVkdSZXBvX3RyYWNlckNhcnJpZXIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PC9nPjxnIGlkPSJTVkdSZXBvX2ljb25DYXJyaWVyIj48dGl0bGU+ZmlsZV90eXBlX3ZzY29kZTwvdGl0bGU+PHBhdGggZD0iTTI5LjAxLDUuMDMsMjMuMjQ0LDIuMjU0YTEuNzQyLDEuNzQyLDAsMCwwLTEuOTg5LjMzOEwyLjM4LDE5LjhBMS4xNjYsMS4xNjYsMCwwLDAsMi4zLDIxLjQ0N2MuMDI1LjAyNy4wNS4wNTMuMDc3LjA3N2wxLjU0MSwxLjRhMS4xNjUsMS4xNjUsMCwwLDAsMS40ODkuMDY2TDI4LjE0Miw1Ljc1QTEuMTU4LDEuMTU4LDAsMCwxLDMwLDYuNjcyVjYuNjA1QTEuNzQ4LDEuNzQ4LDAsMCwwLDI5LjAxLDUuMDNaIiBzdHlsZT0iZmlsbDogcmdiKDAsIDEwMSwgMTY5KTsgLS1kYXJrcmVhZGVyLWlubGluZS1maWxsOiAjNWZjZWZmOyIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1maWxsPSIiPjwvcGF0aD48cGF0aCBkPSJNMjkuMDEsMjYuOTdsLTUuNzY2LDIuNzc3YTEuNzQ1LDEuNzQ1LDAsMCwxLTEuOTg5LS4zMzhMMi4zOCwxMi4yQTEuMTY2LDEuMTY2LDAsMCwxLDIuMywxMC41NTNjLjAyNS0uMDI3LjA1LS4wNTMuMDc3LS4wNzdsMS41NDEtMS40QTEuMTY1LDEuMTY1LDAsMCwxLDUuNDEsOS4wMUwyOC4xNDIsMjYuMjVBMS4xNTgsMS4xNTgsMCwwLDAsMzAsMjUuMzI4VjI1LjRBMS43NDksMS43NDksMCwwLDEsMjkuMDEsMjYuOTdaIiBzdHlsZT0iZmlsbDogcmdiKDAsIDEyMiwgMjA0KTsgLS1kYXJrcmVhZGVyLWlubGluZS1maWxsOiAjNDNjM2ZmOyIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1maWxsPSIiPjwvcGF0aD48cGF0aCBkPSJNMjMuMjQ0LDI5Ljc0N2ExLjc0NSwxLjc0NSwwLDAsMS0xLjk4OS0uMzM4QTEuMDI1LDEuMDI1LDAsMCwwLDIzLDI4LjY4NFYzLjMxNmExLjAyNCwxLjAyNCwwLDAsMC0xLjc0OS0uNzI0LDEuNzQ0LDEuNzQ0LDAsMCwxLDEuOTg5LS4zMzlsNS43NjUsMi43NzJBMS43NDgsMS43NDgsMCwwLDEsMzAsNi42VjI1LjRhMS43NDgsMS43NDgsMCwwLDEtLjk5MSwxLjU3NloiIHN0eWxlPSJmaWxsOiByZ2IoMzEsIDE1NiwgMjQwKTsgLS1kYXJrcmVhZGVyLWlubGluZS1maWxsOiAjMzdiNmZmOyIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1maWxsPSIiPjwvcGF0aD48L2c+PC9zdmc+)&nbsp;
 ![Netbeans](https://img.shields.io/badge/-Netbeans-05122A?style=flat&logo=apache-netbeans-ide&logoColor=007ACC)&nbsp;
 ![Terminal](https://img.shields.io/badge/-Terminal-05122A?style=flat&logo=gnome-terminal&logoColor=a84747)&nbsp;
 ![Tmux](https://img.shields.io/badge/-Tmux-05122A?style=flat&logo=tmux&logoColor=406929)&nbsp;
