@@ -20,10 +20,11 @@ Over 15 years of experience in hybrid web development. Prefers CLI.
 ![Less](https://img.shields.io/badge/-LessCSS-05122A?style=flat&logo=Less&logoColor=563D7C)
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass&logoColor=563D7C)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap&logoColor=563D7C)
-![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery&logoColor=0868ac)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular&logoColor=C3002F)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
 ![Next.JS](https://img.shields.io/badge/-Next.JS-05122A?style=flat&logo=Next.JS&logoColor=3a7cba)&nbsp;
+![Mocha](https://img.shields.io/badge/-Mocha-05122A?style=flat&logo=Mocha&logoColor=8d6748)&nbsp;
 
 #### ⛁ Storage
 
