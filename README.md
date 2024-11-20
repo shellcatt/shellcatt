@@ -23,7 +23,7 @@ Over 15 years of experience in hybrid web development. Prefers CLI.
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery&logoColor=0868ac)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular&logoColor=C3002F)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
-![Next.JS](https://img.shields.io/badge/-Next.JS-05122A?style=flat&logo=Next.JS&logoColor=3a7cba)&nbsp;
+<!--![Next.JS](https://img.shields.io/badge/-Next.JS-05122A?style=flat&logo=Next.JS&logoColor=3a7cba)&nbsp;-->
 ![Mocha](https://img.shields.io/badge/-Mocha-05122A?style=flat&logo=Mocha&logoColor=8d6748)&nbsp;
 
 #### ⛁ Storage
