@@ -4,7 +4,7 @@ Over 15 years of experience in hybrid web development. Prefers CLI.
 </p>
 
 [![wakatime](https://wakatime.com/badge/user/018cefe8-6fe4-4bcf-82f2-e0febb0b540f.svg)](https://wakatime.com/@018cefe8-6fe4-4bcf-82f2-e0febb0b540f) &nbsp;
-![version :30.01.2024](https://img.shields.io/badge/version-30.01.2024-informational) &nbsp;
+![version :23.11.2024](https://img.shields.io/badge/version-23.11.2024-informational) &nbsp;
 [![GitHub Shellcat](https://img.shields.io/github/followers/shellcatt?label=follow&style=social)](https://github.com/shellcatt) &nbsp;
 
 <table>
@@ -15,8 +15,8 @@ Over 15 years of experience in hybrid web development. Prefers CLI.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Less](https://img.shields.io/badge/-LessCSS-05122A?style=flat&logo=Less&logoColor=563D7C)
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass&logoColor=563D7C)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap&logoColor=563D7C)
